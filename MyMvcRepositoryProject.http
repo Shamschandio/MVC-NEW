@@ -1,0 +1,6 @@
+@MyMvcRepositoryProject_HostAddress = http://localhost:5119
+
+GET {{MyMvcRepositoryProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
